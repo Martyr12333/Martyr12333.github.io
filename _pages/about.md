@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Student in Computer Science and Technology
+subtitle: 
 
 profile:
   align: left
   image: ZH.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>051720222</p>\
     <p>333 Longteng Road</p>
