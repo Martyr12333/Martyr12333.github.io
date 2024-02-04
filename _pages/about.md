@@ -23,10 +23,6 @@ social: true # includes social icons at the bottom of the page
 [Shanghai University Of Engineering Science](https://www.sues.edu.cn/)\
 **Email**: 1449040533@qq.com
 
-<div class="contact-icons">
-{% include social.html %}
-</div>
-
 Hi, I'm a senior computer science student at Shanghai University of Engineering and Technology, and I'm currently preparing for my master's degree in computer science in the U.S. for the 2024fall.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
