@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Student in Computer Science and Technology
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: ZH.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>051720222</p>
-    <p>333 Longteng Road</p>
-    <p>Shanghai, Songjiang District</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
