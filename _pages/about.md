@@ -9,7 +9,7 @@ profile:
   image: ZH.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Computer Science and Technology</p>
+    <p>051720222</p>
     <p>333 Longteng Road</p>
     <p>Shanghai, Songjiang District</p>
 
@@ -18,9 +18,9 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-*Senior Student*\ in Computer Science and Technology
-[College of Electrical and Electronic Engineering](https://seee.sues.edu.cn/)
-[Shanghai University Of Engineering Science](https://www.sues.edu.cn/)
+*Senior Student* in Computer Science and Technology\
+[College of Electrical and Electronic Engineering](https://seee.sues.edu.cn/)\
+[Shanghai University Of Engineering Science](https://www.sues.edu.cn/)\
 
 Hi, I'm a senior computer science student at the Shanghai University of Engineering and Technology, and I'm currently preparing for the North American Computer Science Program in 2024fall.
 
