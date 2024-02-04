@@ -9,7 +9,7 @@ profile:
   image: ZH.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>051720222</p>
+    <p>051720222</p>\
     <p>333 Longteng Road</p>
     <p>Shanghai, Songjiang District</p>
 
