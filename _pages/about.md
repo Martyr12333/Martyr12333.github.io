@@ -9,7 +9,7 @@ profile:
   image: ZH.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>051720222</p>\
+    <p>0211202 051720222</p>
     <p>333 Longteng Road</p>
     <p>Shanghai, Songjiang District</p>
 
@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 [Shanghai University Of Engineering Science](https://www.sues.edu.cn/)\
 **Email**: 1449040533@qq.com
 
-Hi, I'm a senior computer science student at the Shanghai University of Engineering and Technology, and I'm currently preparing for the North American Computer Science Program in 2024fall.
+Hi, I'm a senior computer science student at Shanghai University of Engineering and Technology, and I'm currently preparing for my master's degree in computer science in the U.S. for the 2024fall.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
