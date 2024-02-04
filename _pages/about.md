@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 *Senior Student* in Computer Science and Technology\
 [College of Electrical and Electronic Engineering](https://seee.sues.edu.cn/)\
 [Shanghai University Of Engineering Science](https://www.sues.edu.cn/)\
-**Email**:1449040533@qq.com
+**Email**: 1449040533@qq.com
 
 Hi, I'm a senior computer science student at the Shanghai University of Engineering and Technology, and I'm currently preparing for the North American Computer Science Program in 2024fall.
 
