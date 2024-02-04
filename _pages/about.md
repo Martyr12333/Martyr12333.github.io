@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Student
+subtitle: Senior Student in Computer Science and Technology
 [Computer Science and Technology](/https://seee.sues.edu.cn/)
 [Shanghai University of Enigneering and Science](/https://www.sues.edu.cn/)
 
