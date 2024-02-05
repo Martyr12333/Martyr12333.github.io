@@ -28,6 +28,7 @@ Hi, I'm a senior computer science science and technology student at Shanghai Uni
 I have created this homepage in order to store my information and resume so that visitors can have a better understanding of what I do and what personal information is available to them. I am currently working on my final year project combining deep learning and computerized medicine, and I will update the progress of my work on this personal page. Meanwhile I will also update the progress of my application to the 2024fall Master's program on this page.
 
 **<span style="color:blue;">The whole website is still in the process of design and update, currently only the Resume interface can be opened, and more interfaces will appear later.</span>**
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
