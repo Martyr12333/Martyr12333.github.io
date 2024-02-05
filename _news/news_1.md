@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-01-04 23:50:00-0400
+date: 2023-12-27 15:50:00-0400
 inline: true
 related_posts: false
 ---
-😭 I received an offer from Northeastern University for a master's degree in computer science.
+💡 I'm starting my graduation project.
