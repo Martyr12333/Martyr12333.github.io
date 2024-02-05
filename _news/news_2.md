@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-：tada: I received an offer from Northeastern University for a master's degree in information science.
+:tada: I received an offer from Northeastern University for a master's degree in information science.
