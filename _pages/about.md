@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 [Shanghai University Of Engineering Science](https://www.sues.edu.cn/)\
 **Email**: 1449040533@qq.com **<span style="color:blue;">(temporary)</span>**
 
-Hi, I'm a senior computer science science and technology student at Shanghai University of Engineering Science, and I'm currently preparing for my master's degree in computer science in the U.S. for the 2024fall.
+Hi, I'm a senior computer science and technology student at Shanghai University of Engineering Science, and I'm currently preparing for my master's degree in computer science in the U.S. for the 2024fall.
 
 I have created this homepage in order to store my information and resume so that visitors can have a better understanding of what I do and what personal information is available to them. I will also update the progress of my application to the 2024fall Master's program on this page.
 
