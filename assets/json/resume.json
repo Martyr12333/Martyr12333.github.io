@@ -35,7 +35,7 @@
       "courses": ["Algorithms and Data Structures","Operating Systems","Database Principles","C-Programming Language"]
     }
   ],
-  "internship": [
+  "work": [
     {
       "name": "Department of Big Data, Shanghai Hongli Information Technology Co., Ltd",
       "position": "Data Scientist",
@@ -55,7 +55,7 @@
       "highlights": [""]
     }
   ],
-  "research": [
+  "projects": [
     {
       "name": "Hospital Registration and Appointment System Design, Shanghai University of Engineering Science",
       "summary": "Researched and developed the hospital registration and appointment system in order to realize the function module of registration and appointment.",
