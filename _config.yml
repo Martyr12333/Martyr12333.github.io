@@ -119,13 +119,13 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
+# # -----------------------------------------------------------------------------
+# # Blog
+# # -----------------------------------------------------------------------------
 
-blog_name: Zheheng Li' blog # blog_name will be displayed in your blog page
-blog_description: The future of computers is still wide open.
-permalink: /blog/:year/:title/
+# blog_name: Zheheng Li' blog # blog_name will be displayed in your blog page
+# blog_description: The future of computers is still wide open.
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
