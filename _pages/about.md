@@ -26,6 +26,7 @@ social: true # includes social icons at the bottom of the page
 Hi, I'm a senior computer science science and technology student at Shanghai University of Engineering Science, and I'm currently preparing for my master's degree in computer science in the U.S. for the 2024fall.
 
 I have created this homepage in order to store my information and resume so that visitors can have a better understanding of what I do and what personal information is available to them. I will also update the progress of my application to the 2024fall Master's program on this page.
+
 **<span style="color:blue;">The whole website is still in the process of design and update, currently only the Resume interface can be opened, and more interfaces will appear later.</span>**
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
