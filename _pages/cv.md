@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Zheheng Li's CV.pdf
+description: This is my resume, you can browse on this page, you can also click on the next pdf icon to download.© Copyright 2024 Zheheng Li.
 toc:
-  sidebar: left
+  sidebar: right
 ---
